@@ -1,4 +1,4 @@
-# 🐶 PetExpress
+# 🐶 PetZeus
 
 Sistema web simples de pedidos de ração para pets.
 
